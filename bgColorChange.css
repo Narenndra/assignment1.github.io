@@ -1,0 +1,17 @@
+.heading{
+    color: red;
+}
+.inCard-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 30%;
+}
+
+
+.hex-code{
+    color: aliceblue;
+    font-weight: bold;
+}
+
